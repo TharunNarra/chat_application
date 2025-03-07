@@ -73,17 +73,3 @@ A full-stack real-time chat application with both web and mobile interfaces. Thi
    cd frontend
    npm run dev
    ```
-
-5. **For mobile app (optional)**
-   ```bash
-   cd ChatApp
-   npm start
-   ```
-
-## Deployment
-
-The application is configured for easy deployment. The backend serves the frontend build files, so you can deploy it as a single unit to platforms like Heroku, Render, or Vercel.
-
-## License
-
-ISC
